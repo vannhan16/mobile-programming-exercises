@@ -22,3 +22,5 @@ dependencyResolutionManagement {
 rootProject.name = "Exercise"
 include(":app")
 include(":Mobilelab")
+include(":app")
+ 

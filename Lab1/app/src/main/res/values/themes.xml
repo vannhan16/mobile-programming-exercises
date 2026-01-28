@@ -2,4 +2,6 @@
 <resources>
 
     <style name="Theme.Exercise" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.Lab2_BusinessCard" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>
