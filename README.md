@@ -1,57 +1,96 @@
-# 📱 Mobile Programming – Kotlin Exercises
+# 📱 Mobile Programming Exercises
 
-## 👨‍🎓 Thông tin sinh viên
-- **Họ và tên**: Nguyễn Văn Nhân  
-- **Mã sinh viên**: 24ITE068  
-- **Lớp**: CNTT / Lập trình di động  
-- **Môn học**: Lập trình Di động  
+## 👤 Thông tin sinh viên
+
+- **Họ và tên:** Nguyễn Văn Nhân
+- **Mã sinh viên:** 24ITE068
+- **Môn học:** Lập trình Di động
+- **Giảng viên:** Ngô Lê Quân
 
 ---
 
 ## 📌 Giới thiệu
-Đây là **repository chứa các bài tập thực hành ngôn ngữ Kotlin**  
-được thực hiện trong quá trình học môn **Lập trình Di động**.
 
-Project tập trung vào:
-- Làm quen với cú pháp Kotlin
-- Rèn luyện tư duy lập trình cơ bản
-- Thực hành các kiến thức nền tảng trước khi phát triển ứng dụng Android
+Repository này chứa **toàn bộ các bài Lab môn Lập trình Di động**, được tổ chức theo từng thư mục riêng biệt.  
+Mỗi **Lab là một project độc lập**, thuận tiện cho việc học tập, chấm điểm và quản lý mã nguồn trên GitHub.
 
 ---
 
-## 📂 Nội dung bài tập
-Các bài lab được tổ chức trong module `Mobilelab`, bao gồm:
+## 📂 Cấu trúc thư mục
 
-### 🔹 Lab 1 – Kotlin Basic
-- Khai báo biến
-- Hàm (Function)
-- Toán tử
-- Cấu trúc điều kiện `if / else`
-- Cấu trúc `when`
-- Vòng lặp
-- Bài tập thực hành (Dice, logic cơ bản)
-
-📁 Thư mục:
-Mobilelab/main/java/com/example/mobilelab
-## 🛠 Công nghệ sử dụng
-- **Ngôn ngữ**: Kotlin
-- **IDE**: Android Studio
-- **Công cụ quản lý phiên bản**: Git & GitHub
+Mobile-Programming-Exercises/
+│
+├── Lab01*Kotlin_Basics/
+│ └── Bài tập Kotlin cơ bản (Console)
+│
+├── Lab02_Greeting_Card/
+│ └── Ứng dụng Android: Thiệp chúc mừng hiển thị trên máy ảo
+│
+├── Lab03*...
+│ └── (Nội dung Lab 3 sẽ được cập nhật)
+│
+├── Lab04\_...
+│
+└── README.md
 
 ---
 
-## ▶️ Hướng dẫn chạy
-1. Clone repository về máy:
-https://github.com/vannhan16/mobile-programming-exercises.git
-2. Mở project bằng **Android Studio**
-3. Chạy các file Kotlin trong thư mục bài lab
+## 🧪 Chi tiết các Lab
+
+### 🔹 Lab 01 – Kotlin Basics
+
+- Làm quen với ngôn ngữ **Kotlin**
+- Cú pháp cơ bản: biến, hàm, điều kiện, vòng lặp
+- Chạy chương trình dạng **Console**
+- Mục tiêu: nắm vững nền tảng Kotlin trước khi vào Android
+
+📁 Thư mục: `Lab01_Kotlin_Basics`
 
 ---
 
-## 📌 Ghi chú
-- Repository phục vụ cho mục đích **học tập và chấm điểm**
-- Các bài lab sẽ được **cập nhật và bổ sung** trong quá trình học
+### 🔹 Lab 02 – Greeting Card App
+
+- Xây dựng ứng dụng Android đơn giản
+- Hiển thị **thiệp chúc mừng** trên máy ảo (Emulator)
+- Làm quen với:
+  - Activity
+  - Layout XML
+  - TextView, ImageView
+
+📁 Thư mục: `Lab02_Greeting_Card`
 
 ---
 
-✨ *Cảm ơn thầy đã xem bài làm của em!*
+### 🔹 Lab 03 – (Đang cập nhật)
+
+- Nội dung sẽ được bổ sung sau khi hoàn thành Lab
+
+📁 Thư mục: `Lab03_...`
+
+---
+
+## 🛠 Công cụ & Công nghệ sử dụng
+
+- **Android Studio**
+- **Kotlin**
+- **Gradle**
+- **Android Emulator**
+- **Git & GitHub**
+
+---
+
+## ✅ Ghi chú
+
+- Mỗi Lab là **một project Android/Kotlin riêng**
+- Không gộp nhiều Lab vào chung một project
+- Repository được cập nhật theo tiến độ học tập
+
+---
+
+## 📬 Liên hệ
+
+Nếu có vấn đề trong quá trình chạy project, vui lòng liên hệ sinh viên để được hỗ trợ.
+
+---
+
+✨ _“Practice makes progress.”_ ✨
