@@ -5,7 +5,7 @@
 - **Họ và tên:** Nguyễn Văn Nhân
 - **Mã sinh viên:** 24ITE068
 - **Môn học:** Lập trình Di động
-- **Giảng viên:** Ngô Lê Quân
+- **Giảng viên:** Ths. Ngô Lê Quân
 
 ---
 
