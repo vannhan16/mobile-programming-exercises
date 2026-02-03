@@ -20,14 +20,14 @@ Mỗi **Lab là một project độc lập**, thuận tiện cho việc học t�
 
 Mobile-Programming-Exercises/
 │
-├── Lab01*Kotlin_Basics/
+├── Lab01\*Kotlin_Basics/
 │ └── Bài tập Kotlin cơ bản (Console)
 │
 ├── Lab02_Greeting_Card/
 │ └── Ứng dụng Android: Thiệp chúc mừng hiển thị trên máy ảo
 │
-├── Lab03*...
-│ └── (Nội dung Lab 3 sẽ được cập nhật)
+├── Lab03_Dice Roller
+│ └── Ứng dụng Android: Tung xúc sắc
 │
 ├── Lab04\_...
 │
@@ -44,7 +44,7 @@ Mobile-Programming-Exercises/
 - Chạy chương trình dạng **Console**
 - Mục tiêu: nắm vững nền tảng Kotlin trước khi vào Android
 
-📁 Thư mục: `Lab01_Kotlin_Basics`
+📁 Thư mục: `Lab01`
 
 ---
 
@@ -57,15 +57,25 @@ Mobile-Programming-Exercises/
   - Layout XML
   - TextView, ImageView
 
-📁 Thư mục: `Lab02_Greeting_Card`
+📁 Thư mục: `Lab02`
 
 ---
 
-### 🔹 Lab 03 – (Đang cập nhật)
+### 🔹 Lab 03 – Ứng dụng Android Tung Xúc Xắc 🎲
 
-- Nội dung sẽ được bổ sung sau khi hoàn thành Lab
+- Xây dựng ứng dụng Android đơn giản bằng **Kotlin**
+- Giao diện hiển thị hình ảnh xúc xắc
+- Khi người dùng nhấn nút **Roll**, ứng dụng sẽ:
+  - Sinh số ngẫu nhiên từ 1 đến 6
+  - Thay đổi hình ảnh xúc xắc tương ứng
+- Làm quen với:
+  - Activity
+  - Button, ImageView
+  - Xử lý sự kiện `onClick`
+  - Sử dụng tài nguyên `drawable`
+- Chạy và kiểm tra ứng dụng trên **Android Emulator**
 
-📁 Thư mục: `Lab03_...`
+📁 Thư mục: `Lab03`
 
 ---
 
