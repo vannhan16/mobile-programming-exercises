@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "557698364897",
+    "project_id": "lab8-authentication-4853c",
+    "storage_bucket": "lab8-authentication-4853c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557698364897:android:6684ed347fe1788c4b4ea0",
+        "android_client_info": {
+          "package_name": "com.nhan.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOULPfbY26dvAf6QOoTCSePDRsqVsSOpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
