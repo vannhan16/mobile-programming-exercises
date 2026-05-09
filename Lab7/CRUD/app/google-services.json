@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "938812917766",
+    "project_id": "crud-bd800",
+    "storage_bucket": "crud-bd800.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938812917766:android:5921a5e50fc413d5c2db87",
+        "android_client_info": {
+          "package_name": "com.nhan.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTfRjXcVPPFE-Ff0Zv9G8P2e1LO4ib8o0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
